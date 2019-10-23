@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Firebase Kotlin</string>
+
+    <string name="default_notification_channel_id">Firebase Kotlin Notification</string>
+    <string name="fcm_message">Notification!</string>
+
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="image">Image</string>
+    <string name="sign_in">Sign In</string>
+    <string name="firebaseapp_android_bootcamp_with_kotlin"><font size="24">FirebaseApp</font>\n (Android Bootcamp with Kotlin)</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="my_todo_list">My Todo</string>
+</resources>

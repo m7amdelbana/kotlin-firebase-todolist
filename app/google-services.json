@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745639522606",
+    "firebase_url": "https://android-bootcamp-test.firebaseio.com",
+    "project_id": "android-bootcamp-test",
+    "storage_bucket": "android-bootcamp-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745639522606:android:34f341f168bd0441618abf",
+        "android_client_info": {
+          "package_name": "com.m7amdelbana.firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745639522606-20sbsbf7pgfgbl113abmt72vrov5vbtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.m7amdelbana.firebasekotlin",
+            "certificate_hash": "e7e6fae11f887e7359424dfcea0288b03f249438"
+          }
+        },
+        {
+          "client_id": "745639522606-edftqbil98a7kfd7jtlo03jnspghmpki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD58Mh98pGuYpCfWbVojRUuvdRNkhbMyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745639522606-edftqbil98a7kfd7jtlo03jnspghmpki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
