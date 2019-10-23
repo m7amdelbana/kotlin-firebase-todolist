@@ -29,7 +29,7 @@ This project was generated with Android Studio.
 
 ## Development Server
 
-Run using Android Studio and the project will run connected to current project deployed on firebase and contains come default data to be rended in the android application.
+Run using Android Studio and the project will run connected to current project deployed on firebase and contains come default data to show in the android application.
 
 ## Further Help
 
